@@ -6,7 +6,7 @@
 + http://www.urlvir.com/export-hosts/
 + NetLab 360
 + Facebook threat exchange
-+ Google web master alerts
++ Google webmaster alerts
 + Vxvault
 + Shadowserver
 
@@ -67,6 +67,7 @@
 + Hybrid Analysis
 + Malshare
 + Virustotal Intelligence
++ mwdb.cert.pl
 
 ## Feeds of defaced websites
 + Clean MX
