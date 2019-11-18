@@ -65,8 +65,8 @@
 
 ## Malware intelligence
 + Hybrid Analysis
-+ Malshare
-+ Virustotal Intelligence
++ Malshare.com
++ Virustotal Intelligence/Enterprise
 + mwdb.cert.pl
 
 ## Feeds of defaced websites
